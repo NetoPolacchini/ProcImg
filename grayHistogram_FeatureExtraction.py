@@ -75,7 +75,7 @@ def extractHuMomentsFeatures(images):
         moments = cv2.moments(image)
         huMoments = cv2.HuMoments(moments)
 
-        #huMoments = -1 * np.sign(huMoments) * np.log10(np.abs(huMoments))
+        huMoments = -1 * np.sign(huMoments) * np.log10(np.abs(huMoments))
 
         featuresList.append(huMoments.flatten())
         bar.next()
