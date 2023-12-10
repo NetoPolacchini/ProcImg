@@ -12,6 +12,9 @@ Descrição dos descritores implementados:
 Repositório do projeto:
     https://github.com/NetoPolacchini/ProcImg
 
+Link do Vídeo:
+    https://youtu.be/oq5oh_-_39U
+
 Classificador e acurácia:
 
 
