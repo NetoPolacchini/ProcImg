@@ -1,19 +1,11 @@
 Título do Projeto:
     Trabalho Final Processamento de Imagens
 
-Equipe:
-    Aparecido Polacchini Neto RA 2267829,
-    Miguel Pedro Almeida Coral RA 2269198
-
-
 Descrição dos descritores implementados:
     Foi usado o Hu Moments e o LBP
 
 Repositório do projeto:
     https://github.com/NetoPolacchini/ProcImg
-
-Link do Vídeo:
-    https://youtu.be/oq5oh_-_39U
 
 Classificador e acurácia:
 
